@@ -43,7 +43,7 @@ export default function Navbar() {
           </li>
           <li>
             <Link
-              to="/add-book"
+              to="https://github.com/mohitbisht007/Online-Library-System"
               className="flex text-[30px] items-center gap-2 px-4 py-2 rounded-md text-black hover:bg-amber-500 transition"
             >
               <i class="fa-brands fa-github"></i>
